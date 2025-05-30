@@ -24,9 +24,6 @@ By leveraging Terraform's `docker` provider, we automate:
 ### 1. 🔧 Initialize Terraform
 Run this to initialize the working directory and install the Docker provider:
 
-```bash
-terraform init
-
 
 ![1](https://github.com/user-attachments/assets/64f17e34-3763-4c1a-9098-9c600faf7adc)
 
