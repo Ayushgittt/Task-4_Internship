@@ -7,7 +7,6 @@ This project demonstrates how to **provision a local Docker container** running 
 By leveraging Terraform's `docker` provider, we automate:
 - Building a Docker image from a custom `Dockerfile`
 - Running a container locally
-- Managing infrastructure state safely
 
 ---
 
